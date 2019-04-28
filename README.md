@@ -1,5 +1,5 @@
 # cross_math_solver
-For the Random Generator, refresh the sheet or hit F9. Refreshing the sheet will randomize the main values (white) (1-9 and randomize the operators (green) ( +, −, ×, ÷ ). Background calculations will determine the ending values (blue). The ending values have NOT been limited to being whole numbers.	
+For the Random Generator, refresh the sheet or hit F9. Refreshing the sheet will randomize the main values (white) (1-9) and randomize the operators (green) ( +, −, ×, ÷ ). Background calculations will determine the ending values (blue). The ending values have NOT been limited to being whole numbers.	
 	
 For the Specified Solver, follow these steps:	
 1)	Ensure Macros are enabled.
